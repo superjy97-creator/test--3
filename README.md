@@ -29,3 +29,9 @@
 + ~~먹기~~
 + --
 + 
+
+--
+**자바스크립트 코드**
+print("hello world!")
+var name = prompt("이름을 입력하세요:")
+alart(name + "님 환영합니다")
